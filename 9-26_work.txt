@@ -1,0 +1,24 @@
+Team foundation server:- 
+
+1. Installed TFS 2012, update 4 (latest version)
+2. All SQL serer R2 requires service pack 1 (SP1)
+3. For client operating system windows 7 or 8 with 32 or 64-bit, for servers must use 64-bit.
+4. It is a colloboration tool to which prject members can connect and upload their tasks.
+5. TFS has server and client part, TFS is web application installed on IIS
+6. TFS uses SQL server reporting services.
+7. All data will be stored in SQL server , if we want to change server location we need to take back up data of TFS.
+8. Sharepoint exposes TFS data to end user using sharepoint portal.
+9. without sharepoint portal and reporting services the TFS is called Basic TFS.
+
+microsoft test manager:- is a tool of visual studio ALM.
+
+1. Is a tool for test case management.
+2. Is used to write test cases in a suite, run them , track and organize.
+3. It has option of exploratory testing, where tester can explore all possible ways and record bug.
+4. It records all activities and also takes screenshots if any bug is found.
+5. web based test case management - to test third party OS to run tests, screen shots cannot be taken.
+6. Opens as a web browser.
+7. Tester uses microsoft test manager tool to connect with TFS and write test cases, record bugs etc.
+8. Developer uses visual studio team system to check in tool.
+
+
